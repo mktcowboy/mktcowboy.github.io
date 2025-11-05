@@ -1,6 +1,6 @@
 # APRES FUND
 
-!(stripe_qr_code.png)
+![Stripe QR Code](stripe_qr_code.png)
 
 Thank you for considering a donation to the APRES FUND. Your generosity directly funds **[A one-sentence summary of your mission, e.g., "our efforts to promote mountain safety, support injured athletes, and preserve alpine environments."]**
 
@@ -12,7 +12,7 @@ To make a donation, please open your phone's camera or QR code scanning app and 
 
 ### Scan to Donate:
 
-!(stripe_qr_code.png)
+![Stripe QR Code](stripe_qr_code.png)
 
 ---
 
