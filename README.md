@@ -1,47 +1,39 @@
-# 🌟 Support Our Mission: [Your Organization/Cause Name]
+# APRES FUND
 
-Thank you for considering a donation. Your generosity directly funds **[A one-sentence summary of what the donations achieve, e.g., "our efforts to provide clean drinking water to remote communities."]**
+!(image_611bc3.jpg)
 
----
-
-## Why Donate?
-
-Every contribution, no matter the size, makes a tangible difference:
-
-* **$10** provides [Example impact 1, e.g., "a hygiene kit for one person"].
-* **$50** supports [Example impact 2, e.g., "one week of educational materials"].
-* **$100** helps [Example impact 3, e.g., "transport vital supplies to the field"].
-
-We are committed to full transparency, and detailed reports on how funds are utilized are available upon request.
+Thank you for considering a donation to the APRES FUND. Your generosity directly funds **[A one-sentence summary of your mission, e.g., "our efforts to promote mountain safety, support injured athletes, and preserve alpine environments."]**
 
 ---
 
-## How to Donate
+## Donate Securely via Stripe QR Code
 
-Please use one of the secure methods below to make your contribution.
+To make a donation, please open your phone's camera or QR code scanning app and scan the code below. This will take you directly to our secure Stripe payment portal.
 
-### 1. PayPal (Recommended)
-Click the link below to donate securely via PayPal:
+### Scan to Donate:
 
-➡️ **[Donate via PayPal](https://www.paypal.me/[YourPayPalUsername])**
+!(stripe_qr_code.png)
 
-### 2. Credit Card / Stripe
-For credit card donations, please use our secure Stripe portal:
+---
 
-➡️ **[Donate via Stripe](https://donate.stripe.com/tsdfgsdfg0sdfgsdfg)**
+## Why Your Contribution Matters
 
-### 3. Venmo / CashApp
-You can also send a donation directly via mobile payment apps:
+Every donation ensures we can continue essential work for the community:
 
-* **Venmo:** `@YourVenmoHandle`
-* **CashApp:** `$YourCashAppHandle`
+* **Safety:** Funding avalanche mitigation education and rescue training.
+* **Support:** Providing financial assistance for medical recovery to injured athletes.
+* **Stewardship:** Investing in efforts to preserve the mountain environment we enjoy.
 
 ---
 
 ## Contact & Information
 
-**Website:** [https://www.yourwebsite.org](https://www.yourwebsite.org)
-**Email:** [contact@youremail.com](mailto:contact@youremail.com)
-**Follow Us:** [Link to your social media page]
+**Website:** [https://www.apresfund.org (Your main website, if you have one)]
+**Email:** [info@apresfund.org]
+**Follow Our Runs:** [Link to your social media page]
 
-*We are a registered [Non-Profit/Charity/Organization Type] committed to [Your core value].*
+---
+
+## Get Involved
+
+**Follow Us on Instagram:** [Link to your Instagram/Facebook]
