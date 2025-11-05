@@ -1,6 +1,6 @@
 # APRES FUND
 
-!(image_611bc3.jpg)
+!(stripe_qr_code.png)
 
 Thank you for considering a donation to the APRES FUND. Your generosity directly funds **[A one-sentence summary of your mission, e.g., "our efforts to promote mountain safety, support injured athletes, and preserve alpine environments."]**
 
