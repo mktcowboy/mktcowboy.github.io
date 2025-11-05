@@ -2,5 +2,5 @@
 
 help us enjoy the scene! 
 
-![Stripe QR Code](stripe_qr_code.png)
+![Stripe QR Code](notext_QR.png)
 
