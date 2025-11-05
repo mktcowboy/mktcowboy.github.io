@@ -16,24 +16,8 @@ To make a donation, please open your phone's camera or QR code scanning app and 
 
 ---
 
-## Why Your Contribution Matters
+every donation ensures we can continue to enjoy the apres scene
 
-Every donation ensures we can continue essential work for the community:
-
-* **Safety:** Funding avalanche mitigation education and rescue training.
-* **Support:** Providing financial assistance for medical recovery to injured athletes.
-* **Stewardship:** Investing in efforts to preserve the mountain environment we enjoy.
 
 ---
-
-## Contact & Information
-
-**Website:** [https://www.apresfund.org (Your main website, if you have one)]
-**Email:** [info@apresfund.org]
-**Follow Our Runs:** [Link to your social media page]
-
 ---
-
-## Get Involved
-
-**Follow Us on Instagram:** [Link to your Instagram/Facebook]
